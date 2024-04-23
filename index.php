@@ -45,7 +45,6 @@
 </body>
 </html>
 
-
 <style>
     /* Common class */
     .container {
